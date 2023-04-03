@@ -1,0 +1,22 @@
+.titulo {
+    padding: 5%;
+}
+h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 50px;
+}
+h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 30px;
+}
+.titulo__contenedor ul {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+    font-size: 1rem;
+}

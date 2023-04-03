@@ -1,0 +1,55 @@
+.experiencia__info{
+    margin-left: 20px;
+}
+.experiencia__info h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+}
+.experiencia__info h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+.experiencia__btn--uno {
+    width: 116px;
+    height: 51px;
+    border: 1px solid #2A7AE4;
+    padding: 16px;
+    color: #2A7AE4;
+
+}
+.experiencia__btn--uno:hover {
+    width: 116px;
+    height: 51px;
+    border: 1px solid #2A7AE4;
+    padding: 16px;
+    color: #2A7AE4;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+    box-shadow: inset black;
+    box-shadow: 2px 2px 2px #3d3d3d;
+
+}
+.experiencia__btn--dos {
+    width: 116px;
+    height: 51px;
+    padding: 16px;
+    border: none;
+    background: #2A7AE4;
+    color: #fff;
+}
+.experiencia__btn--dos:hover {
+    width: 116px;
+    height: 51px;
+    padding: 16px;
+    border: none;
+    background: #2A7AE4;
+    color: #fff;
+    border-radius: 10px;
+    border: 1px solid #40c5ee;
+    box-shadow: inset rgb(55, 211, 250);
+    box-shadow: 2px 2px 2px #3d3d3d;
+}

@@ -1,0 +1,62 @@
+.contacto__formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.contacto__formulario div label {
+    font-family: 'Releay';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #A2A2A2;
+}
+.contacto__formulario div input{
+    width: 632px;
+    height: 40px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+    border: none;
+    flex: none;
+}
+.contacto__formulario div input:focus{
+    border-radius: 5px;
+    outline: 2px solid rgb(112, 156, 212);
+}
+.contacto__formulario div textarea {
+    width: 632px;
+    height: 133px;
+    background-color: #FFFFFF;
+    border: none;
+    resize: none;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    flex: none;
+}
+.contacto__formulario div textarea:focus {
+    border-radius: 5px;
+    outline: 2px solid rgb(112, 156, 212);
+}
+.contacto__formulario  button {
+    padding: 16px;
+    width: 150px;
+    height: 51px;
+    background-color: #2A7AE4;
+    color: white;
+    border: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 20px;
+}
+.contacto__formulario button:hover {
+    box-shadow: 2px 2px 2px  #2A7AE4;
+    border-color: 20px solid rgb(11, 45, 90);
+    border-radius: 5px;
+}

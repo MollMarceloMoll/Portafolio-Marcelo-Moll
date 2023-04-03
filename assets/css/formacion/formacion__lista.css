@@ -1,0 +1,23 @@
+.formacion__lista {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.formacion__lista img {
+  width: auto;
+  height: auto;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.formacion__lista h4 {
+  margin:0 2px 0 0;
+  font-size: 16px;
+  text-align: left;
+}
+.formacion__lista p {
+  margin: 0;
+  text-align: justify;
+}

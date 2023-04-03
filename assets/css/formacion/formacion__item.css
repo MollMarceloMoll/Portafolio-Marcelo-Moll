@@ -1,0 +1,7 @@
+.formacion__item {
+    width: 250px;
+    margin-right: 20px;
+  }
+  .formacion__item:last-child {
+    margin-right: 0;
+  }

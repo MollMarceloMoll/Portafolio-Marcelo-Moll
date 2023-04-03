@@ -1,0 +1,11 @@
+.formacion__contenido{
+    text-align: center;
+}
+.formacion__contenido p {
+    margin-top: 5px;
+    text-align: justify;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}

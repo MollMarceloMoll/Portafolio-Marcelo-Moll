@@ -1,0 +1,13 @@
+.header__menu--link {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.header__menu--link a {
+    text-decoration: none;
+    color:rgb(19, 95, 114);
+}
+.header__menu--link a:hover{
+    color: rgb(7, 7, 7);
+}
